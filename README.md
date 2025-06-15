@@ -33,7 +33,7 @@ Seamlessly chat with friends using a sleek, modern UI powered by React and Tailw
 ---
 
 # 1. Clone the repo
-git clone https://github.com/your-username/fullstack-chat-app.git
+git clone https:https://github.com/shashiranjan567/chat-app.git
 cd fullstack-chat-app
 
 # 2. Install dependencies
