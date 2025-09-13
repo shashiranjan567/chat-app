@@ -3,7 +3,7 @@
 🚀 A real-time, full-featured chat application built with the MERN stack + Socket.IO.  
 Seamlessly chat with friends using a sleek, modern UI powered by React and Tailwind CSS.
 
-🔗 **Live Demo**: [https://fullstack-chat-app-fxt7.onrender.com/login](https://fullstack-chat-app-fxt7.onrender.com/login)
+🔗 **Live Demo**: [https://chat-app-one-zeta-65.vercel.app](https://chat-app-one-zeta-65.vercel.app)
 
 ---
 
@@ -15,7 +15,7 @@ Seamlessly chat with friends using a sleek, modern UI powered by React and Tailw
 - 🧩 **Authentication**: JWT + Bcrypt
 - 🔌 **Real-time Communication**: Socket.IO
 - ☁️ **Media Storage**: Cloudinary
-- 📦 **Deployment**: Render
+- 📦 **Deployment**: vercel + render
 
 ---
 
